@@ -1,3 +1,3 @@
 # mySqlCanal
 
-This project is config for mysql and canal;
+This project is config for mysql and canal.
